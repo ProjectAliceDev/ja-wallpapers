@@ -1,0 +1,114 @@
+ [
+  {
+  "fileName": "1.png",
+  "isPrimary": false,
+  "themeMode": 0,
+  "altitude": -0.34275283875350282,
+  "azimuth": 270.9334057827345
+  },
+  {
+  "fileName": "2.png",
+  "isPrimary": false,
+  "themeMode": 0,
+  "altitude": -10.239758644725045,
+  "azimuth": 81.775887144809985
+  },
+  {
+  "fileName": "3.png",
+  "isPrimary": false,
+  "themeMode": 0,
+  "altitude": -4.2477344080754564,
+  "azimuth": 86.33545030477751
+  },
+  {
+  "fileName": "4.png",
+  "isPrimary": false,
+  "themeMode": 0,
+  "altitude": 1.3890866331008431,
+  "azimuth": 90.812670374961954
+  },
+  {
+  "fileName": "5.png",
+  "isPrimary": true,
+  "themeMode": 1,
+  "altitude": 7.167168970526129,
+  "azimuth": 95.307409588765893
+  },
+  {
+  "fileName": "6.png",
+  "isPrimary": false,
+  "themeMode": 1,
+  "altitude": 13.08619419164163,
+  "azimuth": 99.920629632689383
+  },
+  {
+  "fileName": "7.png",
+  "isPrimary": false,
+  "themeMode": 1,
+  "altitude": 40.415639464904281,
+  "azimuth": 129.18652208191958
+  },
+  {
+  "fileName": "8.png",
+  "isPrimary": false,
+  "themeMode": 1,
+  "altitude": 53.433472661727741,
+  "azimuth": 182.23309425497911
+  },
+  {
+  "fileName": "9.png",
+  "isPrimary": false,
+  "themeMode": 1,
+  "altitude": 38.793128200638634,
+  "azimuth": 233.55159195809591
+  },
+  {
+  "fileName": "10.png",
+  "isPrimary": false,
+  "themeMode": 1,
+  "altitude": 11.089423171265878,
+  "azimuth": 261.87159046576664
+  },
+  {
+  "fileName": "11.png",
+  "isPrimary": false,
+  "themeMode": 1,
+  "altitude": 5.1845753236736245,
+  "azimuth": 266.44327370710511
+  },
+  {
+  "fileName": "12.png",
+  "isPrimary": false,
+  "themeMode": 0,
+  "altitude": -6.2483093741227886,
+  "azimuth": 275.44204536695247
+  },
+  {
+  "fileName": "13.png",
+  "isPrimary": false,
+  "themeMode": 0,
+  "altitude": -12.20770735214888,
+  "azimuth": 280.07031589401174
+  },
+  {
+  "fileName": "14.png",
+  "isPrimary": false,
+  "themeMode": 0,
+  "altitude": -39.48933951993012,
+  "azimuth": 309.41857318745144
+  },
+  {
+  "fileName": "15.png",
+  "isPrimary": false,
+  "themeMode": 0,
+  "altitude": -52.753181378799347,
+  "azimuth": 2.1750965538675473
+  },
+  {
+  "fileName": "16.png",
+  "isPrimary": false,
+  "themeMode": 0,
+  "altitude": -38.04743388682423,
+  "azimuth": 53.509085812513092
+  }
+]
